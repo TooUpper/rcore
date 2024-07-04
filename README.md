@@ -1,0 +1,2 @@
+# rcore
+Learning rcore notes
